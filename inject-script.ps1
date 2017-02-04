@@ -4,14 +4,16 @@ param (
 	[string] $JsonFile,
 
 	[Parameter(Mandatory=$true)]
-	[string] $ScriptFile,
+	[string[]] $ScriptFiles,
 
 	[string] $PropertyPath = 'pre_install'
 	)
-$ErrorActionPreference = 'stop'
-function GetFileContent($file) {
-	[IO.File]::ReadAllText($ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($file))
+function GetFileContent($files) {
+    [array] $result = $files | % {
+        [IO.File]::ReadAllText($ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($_))
+    }
+    $result -join "`n"
 }
 $j = ConvertFrom-Json (GetFileContent $JsonFile)
-$j.$PropertyPath = GetFileContent $ScriptFile
+$j.$PropertyPath = GetFileContent $ScriptFiles
 $j | ConvertTo-Json | Out-File $JsonFile -Encoding UTF8

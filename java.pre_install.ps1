@@ -1,19 +1,7 @@
-# important to set current directory as 7z will unzip to current directory
-Push-Location $dir
-function unzip($file) {
-	if (Test-Path $file) {
-		Write-Host "Unzipping $file"
-		7z x $file | Out-Null
-		Remove-Item $file
-	} else {
-		Write-Warning "Unable to find $file"
-	}
-}
-
 $target = "$dir\jdk-8u65-windows-x64.exe"
-unzip $target
+unzip $target $dir
 
-@('Tools.zip', 'installerexe') | % { unzip "$dir\$_" }
+@('Tools.zip', 'installerexe') | % { unzip "$dir\$_" $dir }
 
 while (1) {
     try {
@@ -36,5 +24,3 @@ while (1) {
         Start-Sleep -seconds $interval
     }
 }
-
-Pop-Location
