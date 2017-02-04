@@ -2,7 +2,7 @@
     "version": "1.0.1",
     "url": "https://downloads.sourceforge.net/project/freemind/freemind/1.0.1/freemind-bin-max-1.0.1.zip",
     "hash": "005e815bf5d1867eadcaa89194df9952d986ace9eed0a3058c7ee6255799a60a",
-    "pre_install": "\"cd $dir; .\\freemindw.bat\" | Out-File \"$dir\\freemind.ps1\"",
+    "pre_install": "\"pushd $dir; .\\freemindw.bat; popd\" | Out-File \"$dir\\freemind.ps1\"",
     "bin": "freemind.ps1",
     "shortcuts": [ ["freemindw.bat", "FreeMind"] ],
     "depends": [ "java" ]
