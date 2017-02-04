@@ -1,0 +1,14 @@
+; See http://editorconfig.org/ for more informations
+; Top-most EditorConfig file
+root = true
+
+; 4-column space indentation
+[*]
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+
+[*.md]
+; markdown files need 2 trailing spaces to indicate line break
+trim_trailing_whitespace = false
+
