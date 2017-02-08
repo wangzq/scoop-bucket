@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/0xd4d/dnSpy/releases/download/v3.0.0/dnSpy.zip",
+    "hash": "99c0e7bdc93e8051e7e4f09ff75c38ce77119de4a5434cd0cb6aaaf0f71a4ce2",
+    "version": "3.0.0",
+    "bin": [
+        "dnspy.exe",
+        "dnspy.console.exe"
+    ],
+    "shortcuts": [ ["dnspy.exe", "dnSpy"] ]
+}
