@@ -1,0 +1,6 @@
+{
+    "url": "http://tuxproject.de/projects/vim/complete-x86.7z",
+    "version": "8.0.0320",
+    "bin": "gvim.exe",
+    "shortcuts": [ ["gvim.exe", "Vim"] ]
+}
