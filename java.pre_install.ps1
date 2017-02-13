@@ -1,3 +1,5 @@
+#include unzip.ps1
+
 $target = "$dir\jdk-8u65-windows-x64.exe"
 unzip $target $dir
 

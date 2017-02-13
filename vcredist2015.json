@@ -1,0 +1,8 @@
+﻿{
+    "url":  [
+                "https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x86.exe",
+                "https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe"
+            ],
+    "version":  "2015",
+    "post_install":  "function install {\n    \u002786\u0027, \u002764\u0027 | % {\n        $p = \"$dir\\vcredist_x$_.exe\"\n        $a = \u0027/q /norestart\u0027\n        Write-Host \"Executing $p $a\"\n        Start-Process $p $a -Wait\n        Remove-Item $p\n    }\n}\ninstall"
+}
