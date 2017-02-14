@@ -1,5 +1,5 @@
 {
-    "url": "https://cdn.winscp.net/files/WinSCP-5.9.3-Portable.zip?secure=ynrV6XIrYIrx4PbG-Qvcyw==,1487058651",
+    "url": "https://downloads.sourceforge.net/project/winscp/WinSCP/5.9.3/WinSCP-5.9.3-Portable.zip",
     "version": "5.9.3",
     "shortcuts": [ ["winscp.exe", "WinSCP"] ],
     "bin": "winscp.exe"
