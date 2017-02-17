@@ -1,7 +1,13 @@
 #include installer.ps1
 
-function install {
+function InstallVcredist {
     '86', '64' | % {
-        RunInstaller "$dir\vcredist_x$_.exe" '/q /norestart'
+        $a = $_
+        '_', '.' | % {
+            $f = "$dir\vcredist$_x$a.exe"
+            if (Test-Path $f) {
+                RunInstaller $f '/q /norestart'
+            }
+        }
     }
 }
