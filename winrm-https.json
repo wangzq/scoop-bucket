@@ -1,0 +1,13 @@
+{
+    "url": [
+        "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/4b529b00eec1a48748e2f1ea0f305c0f07c87253/201-vm-winrm-windows/ConfigureWinRM.ps1",
+        "https://github.com/Azure/azure-quickstart-templates/blob/4b529b00eec1a48748e2f1ea0f305c0f07c87253/201-vm-winrm-windows/makecert.exe?raw=true",
+        "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/4b529b00eec1a48748e2f1ea0f305c0f07c87253/201-vm-winrm-windows/winrmconf.cmd",
+        "https://gist.githubusercontent.com/wangzq/50a8f94ea510e532ba2c6448bf0faa7a/raw/53115e8cb133707271aadf8908f60b44b00571d1/setup-winrm-https.ps1"
+    ],
+    "version": "1.0",
+    "bin": [
+        "setup-winrm-https.ps1",
+        "makecert.exe"
+    ]
+}
