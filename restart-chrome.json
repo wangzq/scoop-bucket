@@ -1,6 +1,9 @@
 {
-    "url": "https://gist.githubusercontent.com/wangzq/5c76b0d1948f02d34ae82f974cc64b3e/raw/2b9979ea4f334adf81d6b23b979ac5f2e00fb973/restart-chrome.bat",
-    "version": "1.2",
+    "url": [
+        "https://raw.githubusercontent.com/wangzq/scoop-files/master/chrome/restart-chrome.ps1",
+        "https://raw.githubusercontent.com/wangzq/scoop-files/master/chrome/restart-chrome.bat"
+    ],
+    "version": "1.3",
     "shortcuts": [ ["restart-chrome.bat", "Restart Chrome"] ],
     "bin": "restart-chrome.bat"
 }
