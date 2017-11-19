@@ -3,5 +3,8 @@
     "version": "1.90",
     "installer": {
         "args": [ "install" ]
+    },
+    "uninstaller": {
+        "args": [ "uninstall" ]
     }
 }
