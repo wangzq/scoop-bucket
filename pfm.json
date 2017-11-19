@@ -1,5 +1,7 @@
 {
     "url": "http://pismotec.com/download/pfm-190-testing-win.exe",
     "version": "1.90",
-    "post_install": "./pfm-190-testing-win.exe install"
+    "installer": {
+        "args": [ "install" ]
+    }
 }
