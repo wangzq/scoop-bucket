@@ -1,0 +1,10 @@
+{
+    "homepage": "https://www.voidtools.com",
+    "depends": ["everything"],
+    "version": "1.3.4.686",
+    "url": "https://www.voidtools.com/es.zip",
+    "hash": "md5:ef8f3fab2c59fbc8caa3f38520322fac",
+    "bin": [
+		"es.exe"
+	]
+}
