@@ -1,6 +1,6 @@
 {
-    "url": "https://github.com/wangzq/dnSpy/releases/download/4.5.1-custom-protocol/dnspy-4.5.1-custom-protocol.zip",
-    "version": "4.5.3",
+    "url": "https://github.com/wangzq/dnSpy/releases/download/dnspy-4.5.1.3-filename-patch/dnspy-4.5.1.3-filename-patch.zip",
+    "version": "4.5.1.3",
     "bin": [
         "dnspy.exe",
         "dnspy.console.exe"
