@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/wangzq/scoop-files/raw/master/psparsing/psparsing.dll",
+    "version": "1.0",
+    "depends": "fsharp.core"
+}
