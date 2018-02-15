@@ -1,10 +1,10 @@
 {
-    "url": "https://appveyorcidata.blob.core.windows.net/0xd4d-24099/dnspy/x-x-529/svuysao5dxdpg48r/dnSpy/dnSpy/bin/dnSpy.zip?sv=2015-12-11&sr=c&sig=whHoE59pgZs4wdWG65HWys0ZETvWvPiFPOBBgkgWhNM%3D&st=2017-08-19T15%3A10%3A37Z&se=2017-08-19T15%3A16%3A37Z&sp=r",
-    "hash": "99c0e7bdc93e8051e7e4f09ff75c38ce77119de4a5434cd0cb6aaaf0f71a4ce2",
-    "version": "3.0.0",
+    "url": "https://github.com/wangzq/dnSpy/releases/download/dnspy-4.5.1.3-filename-patch/dnspy-4.5.1.3-filename-patch.zip",
+    "version": "4.5.1.4",
     "bin": [
         "dnspy.exe",
+        "dnspy-x86.exe",
         "dnspy.console.exe"
     ],
-    "shortcuts": [ ["dnspy.exe", "dnSpy"] ]
+    "shortcuts": [ ["dnspy.exe", "DnSpy"] ]
 }

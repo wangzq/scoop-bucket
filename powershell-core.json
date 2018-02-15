@@ -1,0 +1,15 @@
+{
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v6.0.0/PowerShell-6.0.0-win-x64.zip",
+            "hash": "FE6C17E9829FFD0503917A1A4ACC3E75A203A80B28E2D9EFFDD7F0AB576F7D5D"
+        },
+        "32bit": {
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v6.0.0/PowerShell-6.0.0-win-x86.zip",
+            "hash": "8E32785547FDD90412FA3A8FA4703D272933999F3D29CAE9FEDA19119B3A2D46"
+        }
+    },
+    "version": "6.0.0",
+    "shortcuts": [ ["pwsh.exe", "PowerShell Core 6.0.0"] ],
+    "bin": "pwsh.exe"
+}
