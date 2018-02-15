@@ -1,6 +1,6 @@
 {
-    "url": "https://github.com/wangzq/dnSpy/releases/download/dnspy-4.5.1.3-filename-patch/dnspy-4.5.1.3-filename-patch.zip",
-    "version": "4.5.1.4",
+    "url": "https://github.com/wangzq/dnSpy/releases/download/20180215a/dnspy.zip",
+    "version": "20180215a",
     "bin": [
         "dnspy.exe",
         "dnspy-x86.exe",
