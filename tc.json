@@ -4,5 +4,6 @@
     "bin": "host\\totalcmd.exe",
     "shortcuts": [
         ["host\\totalcmd.exe", "Total Commander"]
-    ]
+    ],
+    "post_install": "copy \"$dir\\data\\*\" \"$dir\\host\""
 }
