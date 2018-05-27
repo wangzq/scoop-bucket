@@ -1,6 +1,6 @@
 {
-    "url": "https://github.com/wangzq/dnSpy/releases/download/20180516/dnspy.20180516.zip",
-    "version": "20180516",
+    "url": "https://github.com/wangzq/dnSpy/releases/download/20180527/dnspy.20180527.zip",
+    "version": "20180527",
     "bin": [
         "dnspy.exe",
         "dnspy-x86.exe",
