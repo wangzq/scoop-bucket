@@ -1,6 +1,6 @@
 {
-    "url": "https://github.com/KirillOsenkov/MSBuildStructuredLog/releases/download/v1.2.44/MSBuildStructuredLogViewer-1.2.44-full.nupkg#1.zip",
-    "version": "1.2.44",
+    "url": "https://github.com/KirillOsenkov/MSBuildStructuredLog/releases/download/v2.0.54/MSBuildStructuredLogViewer-2.0.54-full.nupkg#1.zip",
+    "version": "2.0.54",
     "shortcuts": [ ["lib\\net46\\StructuredLogViewer.exe", "MSBuild Structured Log Viewer"] ],
     "bin": [
         ["lib\\net46\\StructuredLogViewer.exe", "msbuildlog", ""]
