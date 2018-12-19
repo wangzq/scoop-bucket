@@ -1,7 +1,0 @@
-{
-    "version": "8055",
-    "url": "https://downloads.sourceforge.net/project/plantuml/plantuml.8055.jar",
-    "pre_install": "Rename-Item $dir\\plantuml.8055.jar $dir\\plantuml.jar; \"java -jar $dir\\plantuml.jar @args\" | Out-File \"$dir\\plantuml.ps1\"",
-    "hash": "12d7d23a21858f7f9f8c6d0542c96d307208f2c82daf1ab27668d7e92507efe4",
-    "bin": "plantuml.ps1"
-}
