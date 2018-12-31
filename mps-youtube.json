@@ -1,9 +1,0 @@
-{
-    "url": "https://github.com/mps-youtube/mps-youtube/releases/download/v0.2.8/mpsyt-0.2.8.exe",
-    "version": "0.2.8",
-    "bin": [
-        ["mpsyt-0.2.8.exe", "mps", ""],
-        ["mpsyt-0.2.8.exe", "mps-youtube", ""]
-    ],
-    "depends": ["mpv"]
-}
