@@ -1,6 +1,6 @@
 {
-    "url": "https://xmlexplorer.github.io/resources/XmlExplorer-4.0.5.zip",
-    "version": "4.0.5",
+    "url": "https://github.com/wangzq/xmlexplorer/releases/download/20190124a/xmlexplorer.zip",
+    "version": "2019.01.24.0",
     "bin": "xmlexplorer.exe",
     "shortcuts": [
         ["xmlexplorer.exe", "XML Explorer 4.0.5"]
