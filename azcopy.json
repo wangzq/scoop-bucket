@@ -1,5 +1,5 @@
 {
     "url": "https://aka.ms/downloadazcopy-v10-windows#1.zip",
-    "version": "10.1.2",
-    "bin": "azcopy_windows_amd64_10.1.2\\azcopy.exe"
+    "version": "10.2.0",
+    "bin": "azcopy_windows_amd64_10.2.0\\azcopy.exe"
 }
