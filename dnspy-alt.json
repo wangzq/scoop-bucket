@@ -1,6 +1,6 @@
 {
-    "url": "https://github.com/0xd4d/dnSpy/releases/download/v6.0.5/dnSpy-net472.zip",
-    "version": "6.0.5",
+    "url": "https://github.com/0xd4d/dnSpy/releases/download/v6.1.0/dnSpy-net472.zip",
+    "version": "6.1.0",
     "bin": [
         ["dnspy.exe", "dnspy", ""],
         ["dnspy-x86.exe", "dnspy-x86", ""],

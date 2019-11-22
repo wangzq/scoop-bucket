@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/MscrmTools/XrmToolBox/releases/download/v1.2019.7.34/XrmToolbox.zip",
+    "version": "1.2019.7.34",
+    "bin": "xrmtoolbox.exe",
+    "shortcuts": [
+        ["xrmtoolbox.exe", "XRM Toolbox"]
+    ]
+}
