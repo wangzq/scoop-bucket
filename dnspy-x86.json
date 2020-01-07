@@ -1,7 +1,7 @@
 {
-    "url": "https://github.com/0xd4d/dnSpy/releases/download/v6.0.5/dnSpy-netcore-win32.zip",
+    "url": "https://github.com/0xd4d/dnSpy/releases/download/v6.1.2/dnSpy-netcore-win32.zip",
     "homepage": "https://github.com/0xd4d/dnSpy",
-    "version": "6.0.5",
+    "version": "6.1.2",
     "license": "GPL-3.0-only",
     "description": ".NET debugger and assembly editor.",
     "bin": [
