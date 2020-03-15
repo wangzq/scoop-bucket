@@ -2,8 +2,7 @@
     "url": "http://totalcommander.ch/win/totalcmd912.u3p#1.zip",
     "version": "9.12.1",
     "bin": [
-        ["host\\totalcmd.exe", "totalcmd", ""],
-        ["host\\totalcmd.exe", "tc", ""]
+        ["host\\totalcmd.exe", "totalcmd", ""]
     ],
     "shortcuts": [
         ["host\\totalcmd.exe", "Total Commander"]
