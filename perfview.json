@@ -1,9 +1,9 @@
 {
     "url": [
-        "https://github.com/Microsoft/perfview/releases/download/P2.0.39/PerfView.exe",
-        "https://github.com/Microsoft/perfview/releases/download/P2.0.39/PerfView64.exe"
+        "https://github.com/Microsoft/perfview/releases/download/P2.0.54/PerfView.exe",
+        "https://github.com/Microsoft/perfview/releases/download/P2.0.54/PerfView64.exe"
     ],
-    "version": "2.0.39",
+    "version": "2.0.54",
     "bin": [
         "perfview.exe",
         "perfview64.exe"

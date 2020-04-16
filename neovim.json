@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/neovim/neovim/releases/download/v0.4.3/nvim-win64.zip",
+    "version": "0.4.3",
+    "bin": [
+        ["neovim\\bin\\nvim.exe", "nvim", ""],
+        ["neovim\\bin\\nvim-qt.exe", "nvim-qt", ""]
+    ]
+}
