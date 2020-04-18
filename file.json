@@ -1,0 +1,5 @@
+{
+    "url": "http://downloads.sourceforge.net/gnuwin32/file-5.03-bin.zip",
+    "version": "5.03",
+    "bin": "bin\\file.exe"
+}
