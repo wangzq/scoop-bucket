@@ -1,13 +1,8 @@
 {
-    "url": "https://codeload.github.com/rcmdnk/vim_ahk/zip/v0.4.2#1.zip",
-    "version": "0.4.2",
+    "url": "https://github.com/rcmdnk/vim_ahk/releases/download/v0.6.1/vim_ahk.exe",
+    "version": "0.6.1",
     "bin": [
-        ["vim_ahk-0.4.2\\vim_ahk.exe", "vimahk", ""],
-        ["vim_ahk-0.4.2\\vim_ahk.exe", "vim_ahk", ""],
-        ["vim_ahk-0.4.2\\vim_ime.exe", "vim_ime", ""]
-    ],
-    "shortcuts": [
-        ["vim_ahk-0.4.2\\vim_ahk.exe", "vim_ahk"],
-        ["vim_ahk-0.4.2\\vim_ime.exe", "vim_ime"]
+        ["vim_ahk.exe", "vimahk", ""],
+        ["vim_ahk.exe", "vim_ahk", ""]
     ]
 }
