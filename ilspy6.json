@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/icsharpcode/ILSpy/releases/download/v6.0-preview3/ILSpy_binaries_6.0.0.5671-preview3.zip",
+    "version": "6.0.0.5671",
+    "bin": [
+        ["ilspy.exe", "ilspy6", ""]
+    ],
+    "shortcuts": [
+        ["ilspy.exe", "ILSpy 6"]
+    ]
+}
