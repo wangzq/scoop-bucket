@@ -1,6 +1,6 @@
 {
-    "url": "https://github.com/icsharpcode/ILSpy/releases/download/v6.0-preview3/ILSpy_binaries_6.0.0.5671-preview3.zip",
-    "version": "6.0.0.5671",
+    "url": "https://github.com/icsharpcode/ILSpy/releases/download/v6.0/ILSpy_binaries_6.0.0.5836.zip",
+    "version": "6.0.0.5836",
     "bin": [
         ["ilspy.exe", "ilspy6", ""]
     ],
