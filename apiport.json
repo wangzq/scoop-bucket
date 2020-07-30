@@ -1,0 +1,5 @@
+{
+    "url": "https://aka.ms/apiportdownload#1.zip",
+    "version": "2.7.0",
+    "bin": "net461\\apiport.exe"
+}
