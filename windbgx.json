@@ -1,0 +1,10 @@
+{
+    "url": "https://rb.gy/3sym1f#1.zip",
+    "version": "1.0.2007.6001",
+    "bin": [
+        ["dbgx.shell.exe", "windbgx", ""]
+    ],
+    "shortcuts": [
+        ["dbgx.shell.exe", "WinDbg Preview"]
+    ]
+}
