@@ -1,0 +1,7 @@
+{
+    "url": "https://github.com/canonical/multipass/releases/download/v1.5.0/multipass-1.5.0+win-win64.exe#1.zip",
+    "version": "1.5.0",
+    "bin": [
+        ["bin\\multipass.exe", "multipass", ""]
+    ]
+}
