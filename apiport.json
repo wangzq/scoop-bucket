@@ -1,5 +1,5 @@
 {
-    "url": "https://aka.ms/apiportdownload#1.zip",
-    "version": "2.7.0",
-    "bin": "net461\\apiport.exe"
+    "url": "https://github.com/microsoft/dotnet-apiport/releases/download/v2.8.10-alpha/ApiPort.2.8.10.zip",
+    "version": "2.8.10",
+    "bin": "apiport.exe"
 }
