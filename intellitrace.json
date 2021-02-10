@@ -6,6 +6,7 @@
     ],
 	"bin": [
 		["IntelliTraceSC.exe", "IntelliTraceSC", ""],
+		["IntelliTraceSC.exe", "itrace", ""],
 		["IntelliTraceSC.exe", "IntelliTrace", ""]
 	]
 }
