@@ -1,5 +1,5 @@
 {
-    "url": "http://totalcommander.ch/win/totalcmd951.u3p#1.zip",
+    "url": "https://github.com/wangzq/scoop-files/raw/master/misc/totalcmd951.zip",
     "version": "9.51.0",
     "bin": [
         ["host\\totalcmd.exe", "totalcmd", ""]
